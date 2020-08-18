@@ -182,4 +182,3 @@ class GetTestNameForm(forms.Form):
 
     class Meta:
         fields = ['test_name']
-        
